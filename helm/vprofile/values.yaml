@@ -1,7 +1,7 @@
 defaultUser: guest
 app:
   image: eshwar933/vprofileappimg
-  tag: latest
+  tag: "adca41ecf9d3af9093a88e979ede7b0ce1fafa2f"
   replicas: 1
   containerPort: 8080
   servicePort: 8080
