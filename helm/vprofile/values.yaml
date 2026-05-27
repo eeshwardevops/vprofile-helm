@@ -1,7 +1,7 @@
 defaultUser: guest
 app:
   image: ""
-  tag: ""
+  tag: "edd2eca8698de1060048719c70871614ee8246e9"
   replicas: 1
   containerPort: 8080
   servicePort: 8080
